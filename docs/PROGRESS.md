@@ -9,6 +9,7 @@
 - [x] Git 2.39.5 configured with SSH authentication
 - [x] GitHub repositories created (private + public)
 - [x] Project folder structure established
+- [x] Day 1: Virtual environment and first image script complete
 - [ ] Python fundamentals review
 - [ ] OpenCV image processing basics
 - [ ] First demo: face detection
