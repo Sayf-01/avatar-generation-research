@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)]()
 
-## 🎯 Project Overview
+##  Project Overview
 
 This repository documents my journey building a system that generates realistic 3D avatars from photographs, with the goal of enabling virtual clothing try-on and fit visualization.
 
@@ -57,7 +57,7 @@ This repository documents my journey building a system that generates realistic 
 
 ## 🎓 Learning Journey
 
-### Week 1 Update: Setup Complete ✅
+### Week 1 Update: Setup Complete 
 - Configured development environment (Python 3.12, Git, Homebrew)
 - Created dual repository structure (private development + public portfolio)
 - Established version control workflow
@@ -69,7 +69,7 @@ This repository documents my journey building a system that generates realistic 
 
 ---
 
-## 💡 Why This Project?
+## Why This Project?
 
 Virtual try-on technology is transforming fashion retail. This project explores:
 - How AI can understand human body shapes from photos
@@ -79,13 +79,13 @@ Virtual try-on technology is transforming fashion retail. This project explores:
 
 ---
 
-## 📸 Gallery
+## Gallery
 
 *Demo screenshots and videos will be added as features are developed throughout the 15-month timeline*
 
 ---
 
-## 🔗 Connect
+## Connect
 
 Building this project to demonstrate skills in:
 - Computer vision and image processing
@@ -100,7 +100,7 @@ Building this project to demonstrate skills in:
 
 ---
 
-## 📈 Project Stats
+##  Project Stats
 
 - **Start Date**: October 2025
 - **Estimated Completion**: Q4 2026 (15 months)
